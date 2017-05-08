@@ -1,7 +1,9 @@
+## Reakt Kafka
+
 This libray adapts [Kafka](http://cloudurable.com/kafka-training/index.html) to [Reakt promises and streams](http://advantageous.github.io/reakt/).
 
 
-Reakt has promise libraries for Vert.x, Netty, Gauva and Cassandra.
+Reakt has promise libraries for Vert.x, Netty, Guava, and Cassandra.
 
 
 
